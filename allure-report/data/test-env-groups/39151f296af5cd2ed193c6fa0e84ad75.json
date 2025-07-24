@@ -1,0 +1,1 @@
+{"id":"39151f296af5cd2ed193c6fa0e84ad75","fullName":"com.orangehrm.automation.tests.TC_Login_EmptyCredentials.testLoginWithEmptyCredentials","name":"Verify the login functionality of OrangeHRM with empty credentials to validate required field errors","status":"skipped","testResultsByEnv":{"default":"19ff8beaceacd813a4cbfec425003bee"}}
